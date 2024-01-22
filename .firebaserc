@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "swtesis",
+    "swtesis": "swtesis-e0343",
+    "tesis": "swtesis-e0343",
+    "seniales": "swtesis-e0343",
+    "staging": "swtesis-e0343"
+  },
+  "targets": {},
+  "etags": {}
+}
